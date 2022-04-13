@@ -1,0 +1,20 @@
+.container {
+    width: 20%;
+    margin: auto;
+    padding: 1em;
+}
+
+footer {
+    margin-top: 1em;
+}
+
+footer nav ul {
+    display: grid;
+    gap: 1em;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+}
+
+footer nav ul {
+    margin-left: 1em;
+}
