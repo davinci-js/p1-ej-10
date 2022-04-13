@@ -15,7 +15,7 @@
 ## Entrega
 
 - Clonar este repositorio localmente
-- Resolver cada consigna en un `.js` distinto. No hace falta un `.html` por cada ejercicio.
+- Resolver el trabajo en el `index.js` en las ultimas dos funciones.
 - Crear un repositorio personal con el nombre `dw-p1-10`
 - Modificar este `README.md` con este contenido:
 
