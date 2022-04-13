@@ -12,6 +12,8 @@
   - Tome un string como argumento.
   - Devuelva el string con la primer letra mayuscula.
 
+Pueden ver detalles de como esta conformado el JSON en [PokeAPI](https://pokeapi.co/).
+
 ## Entrega
 
 - Clonar este repositorio localmente
